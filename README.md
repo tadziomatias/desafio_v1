@@ -25,5 +25,5 @@ Esse projeto foi desenvolvido aplicando os seguintes conceitos
 🚩 Classes abstratas
 
 <p align="center">
-  <img alt="fluxo do sistema" src="github/projetoportifolio.jpg" width="100%">
+  <img alt="fluxo do sistema" src="desafio_v1/fluxo_bancario_desafio.png" width="100%">
 </p>
